@@ -15,7 +15,7 @@ export default function Home() {
         />
         <Button
           label="Visualizar seu Amigo Secreto"
-          onClick={() => router.push("/meu-amigo-secreto")}
+          onClick={() => router.push("/login")}
         />
       </div>
     </main>
